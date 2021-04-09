@@ -33,6 +33,7 @@ img {
 }
 .currency input {
 	font-size: 1.2rem;
+	border: 3px solid black;
 }
 .swap {
 	display: flex;
